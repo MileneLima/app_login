@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "159322989549",
+    "firebase_url": "https://atividade-login1-default-rtdb.firebaseio.com",
+    "project_id": "atividade-login1",
+    "storage_bucket": "atividade-login1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159322989549:android:55ab0802c3d73d9407fde4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ8y-D02bAirUoKn4m-yo6gPXm6ODviZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
